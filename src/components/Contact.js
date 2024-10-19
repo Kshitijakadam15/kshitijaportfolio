@@ -42,21 +42,21 @@ export const Contact = () => {
                   </Col>
                   <Col size={12} sm={6} className="px-1">
                   <h6>
-                    18/7/24 - present
+                    18/7/24 - Present
                   </h6>
                   </Col>
                  </Row>
                  <Row>
-                  <Col size={12} sm={9} className="px-1">
+                  <Col size={12} sm={6} className="px-1">
                   <a href="https://lotlitetechnologies.com/" style={{ textDecoration: 'none', color: 'inherit' }}>
                   <h4>
                     Lotlite Technology
                   </h4>
                   </a>
                   </Col>
-                  <Col size={12} sm={3} className="px-1">
+                  <Col size={12} sm={6} className="px-1">
                   <h6>
-                    pune
+                    Pune
                   </h6>
                   </Col>
                  </Row>
@@ -76,7 +76,7 @@ export const Contact = () => {
                   </Col>
                  </Row>
                  <Row>
-                  <Col size={12} sm={9} className="px-1">
+                  <Col size={12} sm={6} className="px-1">
                   <a href="https://stacklab.in/" style={{ textDecoration: 'none', color: 'inherit' }}>
                   <h4>
                     Stacklab.in
@@ -84,9 +84,9 @@ export const Contact = () => {
                   </a>
                   
                   </Col>
-                  <Col size={12} sm={3} className="px-1">
+                  <Col size={12} sm={6} className="px-1">
                   <h6>
-                    pune
+                    Pune
                   </h6>
                   </Col>
                  </Row>

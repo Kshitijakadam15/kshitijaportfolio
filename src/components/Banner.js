@@ -65,7 +65,7 @@ export const Banner = () => {
                 >
                   <span className="tagline">Unlock My Creative Universe</span>
                   <h1>
-                    {`Hello! I'm Kshitija Kadam`}{" "}
+                    {`Hello! Myself  Kshitija`}{" "}
                     <span
                       className="txt-rotate"
                       dataPeriod="1000"
